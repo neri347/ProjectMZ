@@ -3,16 +3,16 @@
   "WorkspaceRootPath": "C:\\ProjectMZ\\MZEngine\\MZEngine\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{DB87E2A9-0ACA-48C3-9623-4F9B86367DD0}|MZGraphicsEngine\\MZGraphicsEngine.vcxproj|C:\\ProjectMZ\\MZEngine\\MZEngine\\MZGraphicsEngine\\Text.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{DB87E2A9-0ACA-48C3-9623-4F9B86367DD0}|MZGraphicsEngine\\MZGraphicsEngine.vcxproj|solutionrelative:MZGraphicsEngine\\Text.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{E311E9E7-687C-4F34-8824-1CDD21BF09A6}|MZEngine\\MZEngine.vcxproj|C:\\ProjectMZ\\MZEngine\\MZEngine\\MZEngine\\RenderSystem.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{E311E9E7-687C-4F34-8824-1CDD21BF09A6}|MZEngine\\MZEngine.vcxproj|solutionrelative:MZEngine\\RenderSystem.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{DB87E2A9-0ACA-48C3-9623-4F9B86367DD0}|MZGraphicsEngine\\MZGraphicsEngine.vcxproj|C:\\ProjectMZ\\MZEngine\\MZEngine\\MZGraphicsEngine\\Text.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{DB87E2A9-0ACA-48C3-9623-4F9B86367DD0}|MZGraphicsEngine\\MZGraphicsEngine.vcxproj|solutionrelative:MZGraphicsEngine\\Text.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{DB87E2A9-0ACA-48C3-9623-4F9B86367DD0}|MZGraphicsEngine\\MZGraphicsEngine.vcxproj|C:\\ProjectMZ\\MZEngine\\MZEngine\\MZGraphicsEngine\\Text.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{DB87E2A9-0ACA-48C3-9623-4F9B86367DD0}|MZGraphicsEngine\\MZGraphicsEngine.vcxproj|solutionrelative:MZGraphicsEngine\\Text.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{F19DB0F0-7B4C-4C99-B22A-3B9C576936A3}|MZGraphicsInterface\\MZGraphicsInterface.vcxproj|C:\\ProjectMZ\\MZEngine\\MZEngine\\MZGraphicsInterface\\ISketchable.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
@@ -152,7 +152,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 0,
               "Title": "Text.h",
               "DocumentMoniker": "C:\\ProjectMZ\\MZEngine\\MZEngine\\MZGraphicsEngine\\Text.h",
               "RelativeDocumentMoniker": "MZGraphicsEngine\\Text.h",
@@ -173,8 +173,7 @@
               "RelativeToolTip": "MZGraphicsEngine\\Grid.cpp",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAACkAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2025-02-06T14:41:10.455Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-06T14:41:10.455Z"
             },
             {
               "$type": "Document",
@@ -186,8 +185,7 @@
               "RelativeToolTip": "MZGraphicsEngine\\MZRenderer.h",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2025-02-04T14:32:43.922Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-04T14:32:43.922Z"
             },
             {
               "$type": "Document",
@@ -199,8 +197,7 @@
               "RelativeToolTip": "MZGraphicsEngine\\VertexShader.hlsl",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002777|",
-              "WhenOpened": "2025-02-09T11:33:21.542Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-09T11:33:21.542Z"
             },
             {
               "$type": "Document",
@@ -212,8 +209,7 @@
               "RelativeToolTip": "MZGraphicsEngine\\CommonData.hlsli",
               "ViewState": "AgIAAAAAAAAAAAAAAADwvwAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
-              "WhenOpened": "2025-02-09T11:44:04.521Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-09T11:44:04.521Z"
             },
             {
               "$type": "Document",
@@ -225,8 +221,7 @@
               "RelativeToolTip": "MZGraphicsEngine\\VertexShader.h",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAUAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2025-02-05T14:14:24.098Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-05T14:14:24.098Z"
             },
             {
               "$type": "Document",
@@ -238,8 +233,7 @@
               "RelativeToolTip": "MZGraphicsEngine\\ConstantBuffer.hlsli",
               "ViewState": "AgIAAAkAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
-              "WhenOpened": "2025-02-09T11:44:06.689Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-09T11:44:06.689Z"
             },
             {
               "$type": "Document",
@@ -251,8 +245,7 @@
               "RelativeToolTip": "MZGraphicsEngine\\HelperObject.h",
               "ViewState": "AgIAAAYAAAAAAAAAAAAAABMAAAAbAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2025-02-09T11:16:42.025Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-09T11:16:42.025Z"
             },
             {
               "$type": "Document",
@@ -264,8 +257,7 @@
               "RelativeToolTip": "MZGraphicsEngine\\ObjectManager.h",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAATAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2025-02-09T10:58:38.533Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-09T10:58:38.533Z"
             },
             {
               "$type": "Document",
@@ -277,8 +269,7 @@
               "RelativeToolTip": "MZGraphicsEngine\\Grid.h",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2025-02-05T14:48:05.096Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-05T14:48:05.096Z"
             },
             {
               "$type": "Document",
@@ -290,8 +281,7 @@
               "RelativeToolTip": "Include\\DXTK\\SimpleMath.h",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2025-02-06T14:34:32.604Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-06T14:34:32.604Z"
             },
             {
               "$type": "Document",
@@ -303,8 +293,7 @@
               "RelativeToolTip": "MZGraphicsEngine\\GeometryGenerator.cpp",
               "ViewState": "AgIAABAAAAAAAAAAAIAwwCcAAAAqAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2025-02-05T15:41:49.789Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-05T15:41:49.789Z"
             },
             {
               "$type": "Document",
@@ -316,8 +305,7 @@
               "RelativeToolTip": "MZGraphicsEngine\\PixelShader.h",
               "ViewState": "AgIAAAMAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2025-02-05T14:20:37.211Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-05T14:20:37.211Z"
             },
             {
               "$type": "Document",
@@ -329,8 +317,7 @@
               "RelativeToolTip": "MZEngine\\MZEngine.h",
               "ViewState": "AgIAAA8AAAAAAAAAAAAAACcAAAAUAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2025-02-04T13:16:57.845Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-04T13:16:57.845Z"
             }
           ]
         },
@@ -348,8 +335,7 @@
               "RelativeToolTip": "MZGraphicsInterface\\ISketchable.h",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAtAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2025-02-09T14:31:54.396Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-09T14:31:54.396Z"
             },
             {
               "$type": "Document",
@@ -361,8 +347,7 @@
               "RelativeToolTip": "MZGraphicsInterface\\IText.h",
               "ViewState": "AgIAAAAAAAAAAAAAAADwvwgAAAACAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2025-02-09T14:34:43.335Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-09T14:34:43.335Z"
             },
             {
               "$type": "Document",
@@ -374,12 +359,11 @@
               "RelativeToolTip": "MZGraphicsInterface\\IRenderable.h",
               "ViewState": "AgIAAAAAAAAAAAAAAADwvwEAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2025-02-09T14:15:23.952Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-09T14:15:23.952Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "Text.cpp",
               "DocumentMoniker": "C:\\ProjectMZ\\MZEngine\\MZEngine\\MZGraphicsEngine\\Text.cpp",
               "RelativeDocumentMoniker": "MZGraphicsEngine\\Text.cpp",
@@ -387,8 +371,7 @@
               "RelativeToolTip": "MZGraphicsEngine\\Text.cpp",
               "ViewState": "AgIAAAkAAAAAAAAAAAAAAA0AAAAVAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2025-02-09T12:40:17.953Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-09T12:40:17.953Z"
             },
             {
               "$type": "Document",
@@ -400,12 +383,11 @@
               "RelativeToolTip": "MZGraphicsEngine\\ObjectManager.cpp",
               "ViewState": "AgIAAAYAAAAAAAAAAAAAABcAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2025-02-09T11:02:55.291Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-09T11:02:55.291Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "RenderSystem.h",
               "DocumentMoniker": "C:\\ProjectMZ\\MZEngine\\MZEngine\\MZEngine\\RenderSystem.h",
               "RelativeDocumentMoniker": "MZEngine\\RenderSystem.h",
@@ -426,8 +408,7 @@
               "RelativeToolTip": "MZGraphicsEngine\\VertexShader.cpp",
               "ViewState": "AgIAAAwAAAAAAAAAAAAAAAoAAAAKAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2025-02-09T11:50:44.292Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-09T11:50:44.292Z"
             },
             {
               "$type": "Document",
@@ -439,8 +420,7 @@
               "RelativeToolTip": "MZGraphicsEngine\\ResourceManager.cpp",
               "ViewState": "AgIAAMQAAAAAAAAAAAAAANEAAAAXAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2025-02-05T13:51:30.513Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-05T13:51:30.513Z"
             },
             {
               "$type": "Document",
@@ -452,8 +432,7 @@
               "RelativeToolTip": "MZGraphicsEngine\\MZRenderer.cpp",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAACQAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2025-02-04T14:30:57.367Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-04T14:30:57.367Z"
             },
             {
               "$type": "Document",
@@ -465,8 +444,7 @@
               "RelativeToolTip": "MZGraphicsEngine\\IShader.cpp",
               "ViewState": "AgIAAA4AAAAAAAAAAAAQwB4AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2025-02-05T14:07:33.639Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-05T14:07:33.639Z"
             },
             {
               "$type": "Document",
@@ -478,8 +456,7 @@
               "RelativeToolTip": "..\\..\\..\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.42.34433\\include\\xhash",
               "ViewState": "AgIAAPUFAAAAAAAAAAAQwAIGAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
-              "WhenOpened": "2025-02-09T11:43:17.875Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-09T11:43:17.875Z"
             },
             {
               "$type": "Document",
@@ -491,8 +468,7 @@
               "RelativeToolTip": "MZEngine\\RenderSystem.cpp",
               "ViewState": "AgIAAAoAAAAAAAAAAAAswBgAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2025-02-04T13:44:14.22Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-04T13:44:14.22Z"
             },
             {
               "$type": "Document",
@@ -504,8 +480,7 @@
               "RelativeToolTip": "..\\..\\..\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.42.34433\\include\\vector",
               "ViewState": "AgIAAFsHAAAAAAAAAAArwGkHAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
-              "WhenOpened": "2025-02-09T11:42:28.075Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-09T11:42:28.075Z"
             },
             {
               "$type": "Document",
@@ -517,8 +492,7 @@
               "RelativeToolTip": "MZGraphicsEngine\\HelperObject.cpp",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAYAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2025-02-09T11:19:50.965Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-09T11:19:50.965Z"
             },
             {
               "$type": "Document",
@@ -530,8 +504,7 @@
               "RelativeToolTip": "MZGraphicsEngine\\Mesh.cpp",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAARAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2025-02-05T15:10:07.244Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-05T15:10:07.244Z"
             },
             {
               "$type": "Document",
@@ -543,8 +516,7 @@
               "RelativeToolTip": "MZGraphicsEngine\\ShaderStruct.h",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2025-02-05T14:37:19.736Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-05T14:37:19.736Z"
             },
             {
               "$type": "Document",
@@ -556,8 +528,7 @@
               "RelativeToolTip": "MZGraphicsEngine\\DX11DeviceBuilder.h",
               "ViewState": "AgIAAAwAAAAAAAAAAAAAAB0AAAAlAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2025-02-05T13:42:37.476Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-05T13:42:37.476Z"
             },
             {
               "$type": "Document",
@@ -569,8 +540,7 @@
               "RelativeToolTip": "MZEngine\\MZEngine.cpp",
               "ViewState": "AgIAABoAAAAAAAAAAAAAABkAAAAWAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2024-06-24T12:44:48.135Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-24T12:44:48.135Z"
             },
             {
               "$type": "Document",
@@ -582,8 +552,7 @@
               "RelativeToolTip": "MZGraphicsEngine\\DX11DeviceBuilder.cpp",
               "ViewState": "AgIAACcAAAAAAAAAAAAAAC8AAAAVAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2024-06-25T09:47:21.498Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-25T09:47:21.498Z"
             },
             {
               "$type": "Document",
@@ -595,8 +564,7 @@
               "RelativeToolTip": "MZEngine\\TimeSystem.cpp",
               "ViewState": "AgIAAAMAAAAAAAAAAAAAAAwAAAACAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2025-02-04T13:45:34.848Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-04T13:45:34.848Z"
             }
           ]
         }
