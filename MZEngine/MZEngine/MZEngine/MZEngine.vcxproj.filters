@@ -1,0 +1,76 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="00_Interface">
+      <UniqueIdentifier>{e8208af4-76d1-433b-9249-21888554ae2d}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="01_EngineProcess">
+      <UniqueIdentifier>{ab29324e-7af2-4a6a-a7e4-64deac153f56}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Singleton">
+      <UniqueIdentifier>{12232c4f-290d-4925-86f1-c1ec778ea4bd}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="02_System">
+      <UniqueIdentifier>{76f3b4bb-a533-4131-a096-9db26e332a6b}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="02_System\TimeSystem">
+      <UniqueIdentifier>{5d0080d4-c81e-49b4-946e-fdf4abf078ce}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="02_System\RenderSystem">
+      <UniqueIdentifier>{735a87b6-8513-4a2a-8aa1-7cf51d179c0a}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="000_Default">
+      <UniqueIdentifier>{5691ef79-7d75-4651-8be6-3008959c335d}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="IMZEngine.h">
+      <Filter>00_Interface</Filter>
+    </ClInclude>
+    <ClInclude Include="MZEngine.h">
+      <Filter>01_EngineProcess</Filter>
+    </ClInclude>
+    <ClInclude Include="Singleton.h">
+      <Filter>Singleton</Filter>
+    </ClInclude>
+    <ClInclude Include="RenderSystem.h">
+      <Filter>02_System\RenderSystem</Filter>
+    </ClInclude>
+    <ClInclude Include="TimeSystem.h">
+      <Filter>02_System\TimeSystem</Filter>
+    </ClInclude>
+    <ClInclude Include="framework.h">
+      <Filter>000_Default</Filter>
+    </ClInclude>
+    <ClInclude Include="targetver.h">
+      <Filter>000_Default</Filter>
+    </ClInclude>
+    <ClInclude Include="resource.h">
+      <Filter>000_Default</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="MZEngine.cpp">
+      <Filter>01_EngineProcess</Filter>
+    </ClCompile>
+    <ClCompile Include="RenderSystem.cpp">
+      <Filter>02_System\RenderSystem</Filter>
+    </ClCompile>
+    <ClCompile Include="TimeSystem.cpp">
+      <Filter>02_System\TimeSystem</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <Image Include="small.ico">
+      <Filter>000_Default</Filter>
+    </Image>
+    <Image Include="MZEngine.ico">
+      <Filter>000_Default</Filter>
+    </Image>
+  </ItemGroup>
+  <ItemGroup>
+    <ResourceCompile Include="MZEngine.rc">
+      <Filter>000_Default</Filter>
+    </ResourceCompile>
+  </ItemGroup>
+</Project>

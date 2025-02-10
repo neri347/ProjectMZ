@@ -1,0 +1,181 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="00_GraphicsProcess">
+      <UniqueIdentifier>{46dadfcc-1d5e-4b81-bcd3-0a563e76ce7a}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="01_Resources">
+      <UniqueIdentifier>{a920e7b2-6975-454b-b836-f1ad60e9b154}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="01_Resources\Device">
+      <UniqueIdentifier>{ec404c88-3284-4515-8d86-1997bc741be0}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="02_Object">
+      <UniqueIdentifier>{d4c56213-6828-46cf-80c3-342ebc0929a7}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="02_Object\Grid">
+      <UniqueIdentifier>{2dbaad4a-bc20-4f00-b7b8-bb7e8decf8e2}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="03_Resource">
+      <UniqueIdentifier>{2b153ebb-af1e-46ad-b608-be3529906d59}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="03_Resource\ResourceManager">
+      <UniqueIdentifier>{56818cfe-4430-440c-8fc1-2c4a82413c0c}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="99_Utility">
+      <UniqueIdentifier>{b98b243d-0535-4e1a-bdba-d98050903ff1}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="03_Resource\Shader">
+      <UniqueIdentifier>{8e891d1b-b9cf-4a6d-b9f6-633c6ab4a988}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="03_Resource\Shader\Interface">
+      <UniqueIdentifier>{6ea20753-b66a-4b09-b89b-f9007707bb59}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="03_Resource\Shader\VertexShader">
+      <UniqueIdentifier>{1948da45-bffc-49f0-b4e7-3c1fe65108c1}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="03_Resource\Shader\PixelShader">
+      <UniqueIdentifier>{092b21f1-6b50-4578-8512-75b1c2e54e07}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="03_Resource\HLSL">
+      <UniqueIdentifier>{844d124f-0fd0-4983-b324-fa2ac586377e}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="03_Resource\HLSL\Common">
+      <UniqueIdentifier>{ab51e4e5-ee2d-4b4c-99bd-6d7bdc8a36cf}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="03_Resource\HLSL\Default">
+      <UniqueIdentifier>{d78b1019-572d-48ef-a4ec-0d031c84822f}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="03_Resource\Mesh">
+      <UniqueIdentifier>{fcd9c5d9-6367-4358-b456-ca8910b839b1}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="99_Utility\GeometryGenerator">
+      <UniqueIdentifier>{eb09dfd0-16be-44b1-8cd8-6fbd7faf5031}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="99_Utility\Structs">
+      <UniqueIdentifier>{9012dd61-9140-47f8-9b7d-90e1e8aa5c1f}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="99_Utility\Math">
+      <UniqueIdentifier>{ad3030f4-13e0-4545-a0cc-f09e7d9c066c}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="02_Object\ObjectManager">
+      <UniqueIdentifier>{6cab5cc6-33b5-4481-ac98-1516dccde766}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="99_Utility\Singleton">
+      <UniqueIdentifier>{f86be9b0-3444-406f-900a-cad9e1ecb3fa}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="02_Object\HelperObject">
+      <UniqueIdentifier>{186e01bf-05f3-4e29-9cca-a8a7995a8ebe}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="02_Object\Text">
+      <UniqueIdentifier>{84bb218f-1d9d-4db0-92f7-16ab68141ccc}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="MZRenderer.h">
+      <Filter>00_GraphicsProcess</Filter>
+    </ClInclude>
+    <ClInclude Include="DX11DeviceBuilder.h">
+      <Filter>01_Resources\Device</Filter>
+    </ClInclude>
+    <ClInclude Include="ResourceManager.h">
+      <Filter>03_Resource\ResourceManager</Filter>
+    </ClInclude>
+    <ClInclude Include="IShader.h">
+      <Filter>03_Resource\Shader\Interface</Filter>
+    </ClInclude>
+    <ClInclude Include="VertexShader.h">
+      <Filter>03_Resource\Shader\VertexShader</Filter>
+    </ClInclude>
+    <ClInclude Include="PixelShader.h">
+      <Filter>03_Resource\Shader\PixelShader</Filter>
+    </ClInclude>
+    <ClInclude Include="Grid.h">
+      <Filter>02_Object\Grid</Filter>
+    </ClInclude>
+    <ClInclude Include="Mesh.h">
+      <Filter>03_Resource\Mesh</Filter>
+    </ClInclude>
+    <ClInclude Include="VertexStruct.h">
+      <Filter>99_Utility\Structs</Filter>
+    </ClInclude>
+    <ClInclude Include="ShaderStruct.h">
+      <Filter>99_Utility\Structs</Filter>
+    </ClInclude>
+    <ClInclude Include="GeometryGenerator.h">
+      <Filter>99_Utility\GeometryGenerator</Filter>
+    </ClInclude>
+    <ClInclude Include="MathHeader.h">
+      <Filter>99_Utility\Math</Filter>
+    </ClInclude>
+    <ClInclude Include="Singleton.h">
+      <Filter>99_Utility\Singleton</Filter>
+    </ClInclude>
+    <ClInclude Include="ObjectManager.h">
+      <Filter>02_Object\ObjectManager</Filter>
+    </ClInclude>
+    <ClInclude Include="HelperObject.h">
+      <Filter>02_Object\HelperObject</Filter>
+    </ClInclude>
+    <ClInclude Include="Text.h">
+      <Filter>02_Object\Text</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="MZRenderer.cpp">
+      <Filter>00_GraphicsProcess</Filter>
+    </ClCompile>
+    <ClCompile Include="DX11DeviceBuilder.cpp">
+      <Filter>01_Resources\Device</Filter>
+    </ClCompile>
+    <ClCompile Include="ResourceManager.cpp">
+      <Filter>03_Resource\ResourceManager</Filter>
+    </ClCompile>
+    <ClCompile Include="IShader.cpp">
+      <Filter>03_Resource\Shader\Interface</Filter>
+    </ClCompile>
+    <ClCompile Include="VertexShader.cpp">
+      <Filter>03_Resource\Shader\VertexShader</Filter>
+    </ClCompile>
+    <ClCompile Include="PixelShader.cpp">
+      <Filter>03_Resource\Shader\PixelShader</Filter>
+    </ClCompile>
+    <ClCompile Include="Grid.cpp">
+      <Filter>02_Object\Grid</Filter>
+    </ClCompile>
+    <ClCompile Include="Mesh.cpp">
+      <Filter>03_Resource\Mesh</Filter>
+    </ClCompile>
+    <ClCompile Include="GeometryGenerator.cpp">
+      <Filter>99_Utility\GeometryGenerator</Filter>
+    </ClCompile>
+    <ClCompile Include="ObjectManager.cpp">
+      <Filter>02_Object\ObjectManager</Filter>
+    </ClCompile>
+    <ClCompile Include="HelperObject.cpp">
+      <Filter>02_Object\HelperObject</Filter>
+    </ClCompile>
+    <ClCompile Include="Text.cpp">
+      <Filter>02_Object\Text</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <FxCompile Include="PixelShader.hlsl">
+      <Filter>03_Resource\HLSL\Default</Filter>
+    </FxCompile>
+    <FxCompile Include="VertexShader.hlsl">
+      <Filter>03_Resource\HLSL\Default</Filter>
+    </FxCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="ConstantBuffer.hlsli">
+      <Filter>03_Resource\HLSL\Common</Filter>
+    </None>
+    <None Include="CommonData.hlsli">
+      <Filter>03_Resource\HLSL\Common</Filter>
+    </None>
+    <None Include="Sampler.hlsli">
+      <Filter>03_Resource\HLSL\Common</Filter>
+    </None>
+  </ItemGroup>
+</Project>
